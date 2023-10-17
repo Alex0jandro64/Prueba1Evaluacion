@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+    
+  }
+
+#boton1{
+    background-color: skyblue;
+    margin-right: 30px;
+}
+#boton2{
+    background-color: coral;
+}
+
+#head{
+    padding-bottom: 10px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+  

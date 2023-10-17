@@ -1,0 +1,5 @@
+.half-width {
+    width: 50%; /* Ajusta el valor según tus necesidades */
+    float: left; /* Usa float para que los elementos se coloquen uno al lado del otro */
+    box-sizing: border-box; /* Incluye el padding y el borde en el ancho del elemento */
+  }
